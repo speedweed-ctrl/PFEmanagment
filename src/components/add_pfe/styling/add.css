@@ -1,0 +1,66 @@
+
+.body{
+        background-image: url("../NASDA\ _Advancing\ Agriculture_.gif");
+        -webkit-background-size: cover;
+        background-repeat: no-repeat;
+        background-size:contain;
+        -o-background-size: cover;
+        padding-bottom:300.5px ;
+        border-color: #04AA6D;
+        border-style: solid;
+        border-width: 5px;
+}
+
+.Container{
+   background-color: rgb(197, 195, 195);
+    height:  fit-content;
+    width: fit-content auto;
+    text-align: center;
+    border-radius: 0.5rem;
+    margin-left: 25%;
+    margin-top:2%;
+    margin-right: 25%;
+    margin-bottom: 15%;
+    padding: 4rem;;
+    box-shadow:15px 10px 0px rgba(10, 10, 10, 0.7);
+    
+}
+
+
+.addButton{
+    float: right;
+    background-color: rgb(19, 143, 201);
+    height: 36px;
+    width: 80px;
+    border: thin;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+}
+
+.inputField{
+   
+    height: 20px;
+    border: solid thin rgb(4, 107, 38);
+    padding-left: 5px;
+    border-radius: 0.35rem;
+}
+
+label{
+    font-size: 18px;
+    padding-left: 5px;
+}
+.notes{
+    width: 50%;
+    padding-top: 5rem;
+    border: solid thin rgb(4, 107, 38);
+    padding-left: 5px;
+    border-radius: 0.35rem;
+}
+
+.fileField{
+    float: right;
+}
+.fileInput{
+    float: left;
+}
